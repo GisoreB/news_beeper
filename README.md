@@ -17,5 +17,12 @@ The app supports both light and dark modes, providing a seamless experience for 
 
 ## Screenshots
 
+<img width="1920" height="1080" alt="Screenshot from 2025-12-29 04-43-22" src="https://github.com/user-attachments/assets/cbae2bc2-211c-4011-99dd-e3339e5e0d37" />
+<img width="1920" height="1080" alt="Screenshot from 2025-12-29 04-40-43" src="https://github.com/user-attachments/assets/d4805a4c-2c4c-467b-918f-fefe8813fd49" />
+<img width="1920" height="1080" alt="Screenshot from 2025-12-29 04-40-25" src="https://github.com/user-attachments/assets/324f4abb-51ff-4ebe-97ad-98c51255d066" />
+<img width="1920" height="1080" alt="Screenshot from 2025-12-29 04-40-15" src="https://github.com/user-attachments/assets/3ac3d403-aa8a-46a7-bcdd-a61d50d0482a" />
+<img width="1920" height="1080" alt="Screenshot from 2025-12-29 04-39-08" src="https://github.com/user-attachments/assets/b8d2b61a-9556-4251-818f-e734ed045a2e" />
+<img width="1920" height="1080" alt="Screenshot from 2025-12-29 04-38-53" src="https://github.com/user-attachments/assets/952fd893-f4dc-4d88-92bb-db9d515271c1" />
+<img width="1920" height="1080" alt="Screenshot from 2025-12-29 04-38-17" src="https://github.com/user-attachments/assets/b7f61a2b-2cce-4ca7-80ef-23a3d05d8f39" />
 
 
